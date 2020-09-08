@@ -1,0 +1,25 @@
+{
+  "name": "nhs-virtual-visit-serverless",
+  "version": "1.0.0",
+  "description": "A WIP to pave the way for the moving of NHS VV to serverless.",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "uuid": "^8.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madetech/nhs-virtual-visit-serverless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madetech/nhs-virtual-visit-serverless/issues"
+  },
+  "homepage": "https://github.com/madetech/nhs-virtual-visit-serverless#readme"
+}
